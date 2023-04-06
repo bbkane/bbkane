@@ -1,8 +1,6 @@
-Hi, I'm Ben Kane! See my [personal website and blog](https://www.bbkane.com/) or browse through my projects here :)
+Hi, I'm Ben Kane! See my [personal website and blog](https://www.bbkane.com/) or browse through my projects (active and abandoned) here on GitHub :)
 
-## Preject Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=bbkane/dotfiles,bbkane/grabbit,bbkane/fling,bbkane/starghaze,bbkane/gocolor,bbkane/warg&type=Date)](https://star-history.com/#bbkane/dotfiles&bbkane/grabbit&bbkane/fling&bbkane/starghaze&bbkane/gocolor&bbkane/warg&Date)
+See my [project star history](https://star-history.com/#bbkane/dotfiles&bbkane/grabbit&bbkane/fling&bbkane/starghaze&bbkane/gocolor&bbkane/warg&Date).
 
 
 <!--
