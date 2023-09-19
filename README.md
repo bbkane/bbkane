@@ -4,7 +4,7 @@ Hi, I'm Ben Kane! See my [personal website and blog](https://www.bbkane.com/) or
 
 # Selected Projects
 
-Also see my [project star history](https://star-history.com/#bbkane/dotfiles&bbkane/grabbit&bbkane/fling&bbkane/starghaze&bbkane/gocolor&bbkane/warg&Date).
+Also see my [project star history](https://star-history.com/#bbkane/dotfiles&bbkane/grabbit&bbkane/fling&bbkane/starghaze&bbkane/gocolor&bbkane/warg&bbkane/shovel&Date).
 
 ## [dotfiles](https://github.com/bbkane/dotfiles)
 
