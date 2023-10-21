@@ -28,17 +28,17 @@ A small single-binary CLI to grab images from Reddit - I've been  surprised how 
 
 ![example](https://github.com/bbkane/grabbit/raw/master/reddit_wallpapers.jpg)
 
-## [shovel](https://github.com/bbkane/shovel)
-
-Make a lot of DNS requests and count the results! Useful for testing complex dynamic DNS records.
-
-![demo](https://github.com/bbkane/shovel/raw/master/demo.gif)
-
 ## [logos](https://github.com/bbkane/logos)
 
 Logging + Printing + Compromising
 
 ![demo](https://github.com/bbkane/logos/raw/master/demo/demo.gif)
+
+## [shovel](https://github.com/bbkane/shovel)
+
+Make a lot of DNS requests and count the results! Useful for testing complex dynamic DNS records.
+
+![demo](https://github.com/bbkane/shovel/raw/master/demo.gif)
 
 ## [starghaze](https://github.com/bbkane/starghaze)
 
