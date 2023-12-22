@@ -2,11 +2,11 @@
 
 Hi, I'm Ben Kane! See my [personal website and blog](https://www.bbkane.com/) or browse through my projects (active and abandoned) here on GitHub :)
 
+- [PRs to projects I don't own](https://github.com/search?q=author%3Abbkane+-owner%3Abbkane&type=pullrequests) (also see [Issues](https://github.com/search?q=author%3Abbkane+-owner%3Abbkane&type=issues))
+- [Project star history](https://star-history.com/#bbkane/dotfiles&bbkane/grabbit&bbkane/fling&bbkane/starghaze&bbkane/gocolor&bbkane/warg&bbkane/shovel&Date)
+- [Repos containing my username](https://sourcegraph.com/search?q=context:global+-lang:svg+-repo:bbkane+bbkane&patternType=standard&sm=1&groupBy=repo)
+
 # Selected Projects
-
-Also see my [project star history](https://star-history.com/#bbkane/dotfiles&bbkane/grabbit&bbkane/fling&bbkane/starghaze&bbkane/gocolor&bbkane/warg&bbkane/shovel&Date).
-
-My name [elsewhere on GitHub](https://sourcegraph.com/search?q=context:global+-lang:svg+-repo:bbkane+bbkane&patternType=standard&sm=1&groupBy=repo)
 
 ## [dotfiles](https://github.com/bbkane/dotfiles)
 
