@@ -6,6 +6,8 @@ Hi, I'm Ben Kane! See my [personal website and blog](https://www.bbkane.com/) or
 
 Also see my [project star history](https://star-history.com/#bbkane/dotfiles&bbkane/grabbit&bbkane/fling&bbkane/starghaze&bbkane/gocolor&bbkane/warg&bbkane/shovel&Date).
 
+My name [elsewhere on GitHub](https://sourcegraph.com/search?q=context:global+-lang:svg+-repo:bbkane+bbkane&patternType=standard&sm=1&groupBy=repo)
+
 ## [dotfiles](https://github.com/bbkane/dotfiles)
 
 Configs for apps I care about - see the [`zsh`](https://github.com/bbkane/dotfiles/tree/master/zsh) config especially :)
