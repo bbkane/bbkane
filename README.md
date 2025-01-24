@@ -42,6 +42,10 @@ Logging + Printing + Compromising
 
 ![demo](https://github.com/bbkane/logos/raw/master/demo/demo.gif)
 
+## [observable.bbkane.com](https://github.com/bbkane/observable.bbkane.com)
+
+Source code for https://observable.bbkane.com/git-data , which graphs commits over time in different ways.
+
 ## [shovel](https://github.com/bbkane/shovel)
 
 Make a lot of DNS requests and count the results! Useful for testing complex dynamic DNS records.
@@ -79,6 +83,10 @@ LIMIT 10
 │ C++        │ 230        │
 └────────────┴────────────┘
 ```
+
+## [toddlerevents](https://github.com/bbkane/toddlerevents)
+
+Find Bay Area toddler events (currently only from public libraries) to attend with my son that are outside of work hours. Updates https://github.com/bbkane/toddlerevents.bbkane.com each Friday and Monday.
 
 ## [warg](https://github.com/bbkane/warg)
 
