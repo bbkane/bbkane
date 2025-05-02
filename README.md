@@ -12,11 +12,11 @@ Hi, I'm Ben Kane! See my [personal website and blog](https://www.bbkane.com/) or
 
 Configs for apps I care about - see the [`zsh`](https://github.com/bbkane/dotfiles/tree/master/zsh) config especially :)
 
-## [envelope](https://github.com/bbkane/envelope)
+## [enventory](https://github.com/bbkane/enventory)
 
 Store project environmental files in a central database.
 
-![demo.gif](https://raw.githubusercontent.com/bbkane/envelope/master/demo.gif)
+![demo.gif](https://raw.githubusercontent.com/bbkane/enventory/master/demo.gif)
 
 ## [fling](https://github.com/bbkane/fling)
 
